@@ -2,122 +2,31 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I'm currently a PhD student in Operations Research and Industrial Engineering at Pennsylvania State University, where I am being advised by [Dr. Mort Webster](https://www.eme.psu.edu/directory/mort-d-webster). I earned BA degrees from Rice University in Computational and Applied Mathematics (CAAM) and in Mathematics in 2018, where I worked with [Dr. Andrew Schaefer](https://www.cmor-faculty.rice.edu/~andrew.schaefer/) and [Dr. Boris Brimkov](http://srufaculty.sru.edu/boris.brimkov/). In between, I've been working as an Operations Research Scientist at the Applied Research Laboratory at Penn State. 
 
-[Link to another page](./another-page.html).
+# Research
 
-There should be whitespace between paragraphs.
+My graduate research is funded by the [Program on Coupled Human and Earth Systems](https://pches.psu.edu/) (PCHES). 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Publications
 
-# Header 1
+•	Nguyen, D., Webster, M., Celaya, J., and R. Obringer. “Statistical Learning Applied to Climate-Water-Energy Impacts Scenarios: From High-Dimensional Outcomes to Manageable Inputs for Adaptation Models.” Under preparation for submission to Climactic Change. 
+•	Alar, D., Celaya, J., Henson, M, Wheeler, A. K. and L. García-Puente. “The Sandpile Group of a Thick Cycle Graph.” Electronic Journal of Graph Theory and Applications. 10(2) 2022. http://dx.doi.org/10.5614/ejgta.2022.10.2.20
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Honors and Awards
 
-## Header 2
+•	June 2022: Finalist, Richard S. Barchi Prize, 90th Military Operations Research Society Symposium 
+•	December 2017: Rice University CAAM Chevron Prize for Outstanding Undergraduate Achievement 
+•	August 2014 – May 2018: Rice University Trustee Distinguished Scholarship
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# My Journey Up Til Now
 
-### Header 3
+I'm originally from Panther Junction, Texas - a small community inside Big Bend National Park. I moved to Alpine, Texas to attend high school, and then Houston for university. Now I'm in State College, Pennsylvania! It's been fun to experience rather different cultures in each place I've lived, and who knows where I'll end up next! 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+One constant in my life has been that at each stop along the way I've had many wonderful friends, colleagues, family members, and mentors who have supported me. If you happen to be one of those people reading this, please know that I'm sincerely grateful for you. 
 
 ### Small image
 
+Enjoy the cat until I think of something better to put here.
+
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
