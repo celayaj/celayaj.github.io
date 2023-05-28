@@ -1,5 +1,5 @@
 ---
-layout: center
+layout: default
 ---
 
 I'm currently a PhD student in Operations Research and Industrial Engineering at Pennsylvania State University, where I am being advised by [Dr. Mort Webster](https://www.eme.psu.edu/directory/mort-d-webster). I earned BA degrees from Rice University in Computational and Applied Mathematics (CAAM) and in Mathematics in 2018, where I worked with [Dr. Andrew Schaefer](https://www.cmor-faculty.rice.edu/~andrew.schaefer/) and [Dr. Boris Brimkov](http://srufaculty.sru.edu/boris.brimkov/). In between, I've been working as an Operations Research Scientist at the Applied Research Laboratory at Penn State. 
