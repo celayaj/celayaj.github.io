@@ -28,6 +28,4 @@ One constant in my life has been that at each stop along the way I've had many w
 
 # Photos
 
-Enjoy the cat until I upload some photos.
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+!![View Just Outside Panther Junction](assets/OutsidePJ.jpg)
