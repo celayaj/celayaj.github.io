@@ -28,4 +28,6 @@ One constant in my life has been that at each stop along the way I've had many w
 
 # Photos
 
-!![View Just Outside Panther Junction](assets/OutsidePJ.jpg)
+| ![View Just Outside Panther Junction](assets/OutsidePJ.jpg) |
+|:--:| 
+| *Chisos Mountains in Big Bend National Park* |
