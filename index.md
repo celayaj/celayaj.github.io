@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm currently a PhD student in Operations Research and Industrial Engineering at Pennsylvania State University, where I am being advised by [Dr. Mort Webster](https://www.eme.psu.edu/directory/mort-d-webster). I earned BA degrees from Rice University in Computational and Applied Mathematics (CAAM) and in Mathematics in 2018, where I worked with [Dr. Andrew Schaefer](https://www.cmor-faculty.rice.edu/~andrew.schaefer/) and [Dr. Boris Brimkov](http://srufaculty.sru.edu/boris.brimkov/). In between, I've been working as an Operations Research Scientist at the Applied Research Laboratory at Penn State. 
+I'm currently a PhD student in Operations Research and Industrial Engineering at Pennsylvania State University, where I am being advised by [Dr. Mort Webster](https://www.eme.psu.edu/directory/mort-d-webster). I earned BA degrees from Rice University in Computational and Applied Mathematics (CAAM) and in Mathematics in 2018, where I worked with [Dr. Andrew Schaefer](https://www.cmor-faculty.rice.edu/~andrew.schaefer/) and [Dr. Boris Brimkov](http://srufaculty.sru.edu/boris.brimkov/). In between, I've been working as an Operations Research Scientist in the Undersea Systems office of the [Applied Research Laboratory at Penn State](arl.psu.edu). 
 
 # Research
 
@@ -16,13 +16,13 @@ My graduate research is funded by the US Department of Energy as part of the [Pr
 
 # Honors and Awards
 
-- June 2022: Finalist, Richard S. Barchi Prize, 90th Military Operations Research Society Symposium 
+- June 2022: Finalist, Richard S. Barchi Prize, 90th Military Operations Research Society Symposium (with Drew Preston, Thomas Karnezos, and Deanne McPherson)
 - December 2017: Rice University CAAM Chevron Prize for Outstanding Undergraduate Achievement 
 - August 2014 – May 2018: Rice University Trustee Distinguished Scholarship
 
 # My Journey Up Til Now
 
-I'm originally from Panther Junction, Texas - a small community inside Big Bend National Park. I moved to Alpine, Texas to attend high school, and then Houston for university. Now I'm in State College, Pennsylvania! It's been fun to experience rather different cultures in each place I've lived, and who knows where I'll end up next! 
+I'm originally from Panther Junction, Texas - a small community inside Big Bend National Park. I moved to Alpine, Texas to attend high school, and then Houston for university. During undergrad, I did [research](https://www.msri.org/web/msri/education/for-undergraduates/msri-up/2016) for a summer in in Berkeley, CA, in 2016. Now I'm in State College, Pennsylvania! I've been fortunate to enjoy my time in each place I've lived, and who knows where I'll end up next! 
 
 One constant in my life has been that at each stop along the way I've had many wonderful friends, colleagues, family members, and mentors who have supported me. If you happen to be one of those people reading this, please know that I'm sincerely grateful for you. 
 
